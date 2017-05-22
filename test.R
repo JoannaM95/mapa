@@ -1,1 +1,0 @@
-#bede probowac narysowac mape
