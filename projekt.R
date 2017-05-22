@@ -41,7 +41,7 @@ server=function(input, output) {
 }
 
 ui=fluidPage(
-  titlePanel("Oczekiwana długość życia"),
+  titlePanel("Oczekiwana długość życia w poszczególnych krajach"),
   column(4, wellPanel(
     sliderInput("rok", "Wybierz rok",
                 min = 1800, max = 2016, value = 1908, step=1, sep="")
