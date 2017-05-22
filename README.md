@@ -1,7 +1,7 @@
 # Uruchomienie aplikacji:
-# bezpośrednio:
+# 1. bezpośrednio:
 # library(shiny)
 # runGitHub("mapa","JoannaM95")
 
-# lub poprzez plik:
+# 2. poprzez plik:
 # projekt.R
